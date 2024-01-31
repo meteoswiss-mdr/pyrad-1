@@ -84,11 +84,16 @@ To install Pyrad and its submodules please have a look at the [Pyrad user manual
 # Use
 Before using it have a look at the [cookbook (pdf)](./additional_doc/pyrad-framework-cookbook/DataProcessing.pdf).
 
-For details on the implemented functions check the [pyrad library reference for users](https://meteoswiss.github.io/pyrad/). 
+For details on the implemented functions and a list of all pyrad features check the [pyrad library reference for users](https://meteoswiss.github.io/pyrad/). 
 
 Example configuration files can be found in the repository directory [pyrad/config/processing/](./config/processing) and in the dedicated [examples repository](https://github.com/MeteoSwiss/pyrad-examples). 
 
 To use Pyrad for data quality monitoring check the report [pyrad_monitoring_fvj.pdf](./additional_doc/pyrad_monitoring_fvj.pdf).
+
+# Learning pyrad
+
+Please take a look at the course that the pyrad team gave at the ASEAN-2024 radar workshop: https://github.com/openradar/asean2024-pyrad-course
+It contains a set of 10 pyrad configurations, with accompanying descriptions that encompasses many use cases.
 
 # Newsletter
 
